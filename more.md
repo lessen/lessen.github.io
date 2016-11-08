@@ -1,7 +1,8 @@
 ---
-layout: md
+layout: default
 ---
 
 # adas
 
 sdssfds
+
