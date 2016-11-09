@@ -1,3 +1,7 @@
+----
+layout: default
+---
+
 # Bibliography
 
 [Related work](https://www.google.com/search?q=multi-objective+rule-based+learning&oq=multi-objective+rule-based+learning&aqs=chrome..69i57.6908j0j4&sourceid=chrome&ie=UTF-8
